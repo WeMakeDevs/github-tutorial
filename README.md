@@ -3,3 +3,4 @@
 - Kunal Kushwaha says that this community is amazing.
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+- Mann Narang respects Kunal's efforts for the community and want to thank him for the same. 
