@@ -3,5 +3,5 @@
 - Kunal Kushwaha says that this community is amazing.
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
-- Sankar is Excited To Grow his knowledge about Open Source and DSA despite being from non-technical Background
+- Sankar is Excited To Grow his knowledge DSA
 
