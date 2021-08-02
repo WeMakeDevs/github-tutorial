@@ -3,4 +3,4 @@
 - Kunal Kushwaha says that this community is amazing.
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
-- Yashodhar Patel says that Community Classroom really great!
+- Yashodhar Patel says that Community Classroom is really great!
