@@ -6,3 +6,6 @@
 
 - Shirsendu Koner says-->>
     1. This Community could be a GOLD MINE for the beginners(like myself) who wants to learn GIT and GitHub.
+    2. If you find yourself unable to understand the GIT and GITHUB working, then see the video again.
+       Its the best video on GIT and GITHUB that i have seen soo far on any platform.
+    
