@@ -5,4 +5,4 @@
 - Anirudh Sharma finds the Community Classroom initiative really great!
 - Vishnu finds Community Classroom really helpful.
 - this is just tmp
-- this is just tmp too
+- this is just tmp
