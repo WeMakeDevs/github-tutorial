@@ -1,5 +1,17 @@
 # Community Classroom is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+>Community Classroom provides Quality Education. Free for all.
+
+## ➡️ Community Classroom Socials:
+
+- [Twitter](https://twitter.com/commclassroom)
+
+- [LinkedIn](https://www.linkedin.com/company/commclassroom/) 
+
+- [Instagram](https://www.instagram.com/commclassroom)
+
+- [Telegram](https://t.me/commclassroom)
+
+- [Discord](https://discord.io/commclassroom)
+
+
