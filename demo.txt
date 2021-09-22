@@ -1,0 +1,3 @@
+hi all
+i am prashant 
+here i am to learn something about git and github
