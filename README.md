@@ -2,4 +2,4 @@
 
 - Kunal Kushwaha says that this community is amazing.
 - More power to kunal. love the work which your are doing for the community.
-- this community for sure is going to create wonders !! 
+- this community will create wonders !! 
