@@ -1,5 +1,5 @@
 # Community Classroom is OP
-
+Shweta says that this GIT training is just amazing.
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
