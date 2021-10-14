@@ -1,3 +1,3 @@
 # Community Classroom is OP
 
--I am learning to you git using Kunal's youtube video
+-I am learning to use git using Kunal's youtube video
