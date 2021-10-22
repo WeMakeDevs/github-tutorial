@@ -1,2 +1,2 @@
-- Today I got started with git and this is my first forked file and modified a forign file
--I am currently a college student
+- This is community classroom 
+- welcome to community classroom
