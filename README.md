@@ -1,2 +1,0 @@
-- This is community classroom 
-- welcome to community classroom
