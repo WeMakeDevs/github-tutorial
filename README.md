@@ -1,2 +1,2 @@
-This community was amazing and kunal's teaching is marvellous
-^z
+this is great community it helped me a lot
+excoted to be a part of it
