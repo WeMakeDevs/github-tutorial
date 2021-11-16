@@ -5,3 +5,7 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+-Vaibhav  Patil is very overwhelmed with the support from community classroo
+-Just trying again cause I didnt got any notfication after push command
+m
+-I m gonna see again how this works
