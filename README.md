@@ -5,3 +5,6 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+
+- I, Anurag Nayak, making changes to the commsclassroom's readme file
+- The above mentioned line is mine
