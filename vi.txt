@@ -1,0 +1,5 @@
+#!/bin/sh
+
+exec vim "$@"
+hey techies wassup........
+keep learning ...keep growing...keep contributing...keep helping
