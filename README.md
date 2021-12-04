@@ -3,4 +3,4 @@
 - Kunal Kushwaha says that this community is amazing.
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
-- Santhosh Reddy thanks kunal for providing this opportunity to learn
+- Santhosh Reddy says that Community Classroom is a boon for students to gain knowledge in different domains
