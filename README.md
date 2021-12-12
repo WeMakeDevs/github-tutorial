@@ -1,5 +1,5 @@
 # Community Classroom is OP
-
+- Thanks for amazing work, all doubts regarding git and github has been resolved
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
