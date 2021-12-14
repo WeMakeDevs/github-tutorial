@@ -5,4 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
-- Vineet loves your out of the box idea and wants to help the community as well. 
+- Vineet loves your out of the box ideas and wants to help the community as well. 
