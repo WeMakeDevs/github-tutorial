@@ -1,3 +1,4 @@
+
 # Community Classroom is OP
 
 - Kunal Kushwaha says that this community is amazing.
@@ -5,3 +6,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+- Sharif says "Lets join the awesome learning journey and grow together."
