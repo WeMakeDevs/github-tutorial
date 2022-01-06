@@ -2,7 +2,7 @@
 
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
-- I love MJ
+- I love Spider Man
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
 - Deep Likes this community
