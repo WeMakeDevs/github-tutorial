@@ -8,4 +8,4 @@
 
 - Kevin says:
 - Thanks for the great explations.
-- Amazing work! Keep it up!
+- Amazing work! Keep it up...
