@@ -5,3 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+- Thanks for the Lesson, really appreciate your efforts! Helped me learn everything I need to know for Open Source Work using GIT.
