@@ -1,5 +1,6 @@
 # Community Classroom is OP
-Rajashekar says that this community providing handson experience and this is amazing. 
+- Rajashekar says that this community providing handson experience 
+- and this is amazing. 
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
