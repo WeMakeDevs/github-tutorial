@@ -5,3 +5,5 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+- Dhruv Bhatia finds the JAVA + DSA Bootcamp really amazing. Have been learning a lot!
+
