@@ -6,4 +6,6 @@
 - More power to kunal. love the work which your are doing for the community.
 - your content is super kunal i loved most 
 
+- Ashihs gaikwad is a software developer ashish like making front end 
+- and javascript , react , c++ ,html ,css,talwind css.bootstrap css etc .
 - Anirudh Sharma finds the Community Classroom initiative really great!
