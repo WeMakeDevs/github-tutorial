@@ -8,4 +8,6 @@
 
 - Ashihs gaikwad is a software developer ashish like making front end 
 - and javascript , react , c++ ,html ,css,talwind css.bootstrap css etc .
+- community classroom is op 
+- kunal also is op 
 - Anirudh Sharma finds the Community Classroom initiative really great!
