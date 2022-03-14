@@ -1,1 +1,2 @@
-This platform is a game changer.
+This is a great initiative.
+
