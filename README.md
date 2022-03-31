@@ -7,3 +7,4 @@
 - Anirudh Sharma finds the Community Classroom initiative really great!
 - Rudra Gaur thinks that Community Classroom is doing a great job of carving programmers out of the ordinary individuals.
 - More power to Kunal. Keep doing whatever you're doing.
+- I learnt Git without hassle because of Kunal.
