@@ -6,4 +6,4 @@
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
 
-- This is Sagar, and this community is amazing!
+- This is Sagar, and this community is amazing 101!
