@@ -5,5 +5,5 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
--Naman Tiwari believes that this community wil grow stronger together!!
+- Naman Tiwari believes that this community wil grow stronger together!!
 
