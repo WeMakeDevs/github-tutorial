@@ -5,3 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+- Kunal is the GOAT and hope for self taught programmers like me(VENKY)
