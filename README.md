@@ -4,4 +4,5 @@
 - Kunal made this change
 - I love MLH
 - More power to kunal. love the work which your are doing for the community
-This community learning is fun and informative! 
+  Anirudh Sharma finds the Community Classroom initiative really great!
+  This community learning is fun and informative
