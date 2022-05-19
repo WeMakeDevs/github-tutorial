@@ -1,7 +1,7 @@
 # Community Classroom is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
+- Akash Mohanto also says that this community is amazing.
+- Akash made this change.
+- I will also love MLH in the coming future.
 - More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- Akash Mohanto finds the Community Classroom initiative really great!
