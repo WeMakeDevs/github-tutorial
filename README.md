@@ -6,3 +6,5 @@
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
 - Dharun says that communityClassroom is op.
+- Really good teaching about git.
+
