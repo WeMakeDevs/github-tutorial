@@ -4,4 +4,6 @@
 - Kunal made this change
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- I'm loving this bootcamp. Komal is dedicated to complete this bootcamp.
+- Thanks Kunal bhai for the much needed support.
+
