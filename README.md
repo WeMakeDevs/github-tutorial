@@ -1,7 +1,7 @@
 # Community Classroom is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- Abhishek Chouhan says that this community is amazing.
+- Abhishek made this change
+- I love MySelf
+- More power to Abhishek. love the work which your are doing for the community.
+- Urushi Rajput finds the Community Classroom initiative really great!
