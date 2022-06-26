@@ -8,3 +8,4 @@
 - Anirudh Sharma finds the Community Classroom initiative really great!
 -Kunal is very rude and greedy
 Kunal is chutiya 
+He has not updated dsa bootcamp
