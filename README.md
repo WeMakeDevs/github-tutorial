@@ -1,3 +1,3 @@
-Nothing is as in it
+Nothing as such in it
 
 totally boring stuff
