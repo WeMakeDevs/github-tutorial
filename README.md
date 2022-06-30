@@ -1,4 +1,4 @@
-# Community Classroom is OP
+community Classroom is OP
 
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
