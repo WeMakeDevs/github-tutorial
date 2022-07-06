@@ -6,4 +6,4 @@
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
 
-- Piyush Satange says that thi scommunity is amazing.
+- Piyush Satange says that this community is amazing.
