@@ -1,4 +1,4 @@
-# Git and Github:
+## Git and Github:
 
 Initialize git repository in any folder to track the folder's changes
 cd to that folder and
@@ -31,7 +31,7 @@ clear the changes that are saved on stash
 
 ---
 
-## Creating New Github Repo:
+### Creating New Github Repo:
 
 add your project to the repo
 `git remote add origin repo_url`
@@ -48,7 +48,7 @@ clone projects from github
 
 ---
 
-## Git Branches:
+### Git Branches:
 
 create new branch
 `git branch branch_name`
