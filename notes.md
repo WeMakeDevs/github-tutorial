@@ -1,4 +1,4 @@
-## Git and Github:
+# Git and Github:
 
 Initialize git repository in any folder to track the folder's changes
 cd to that folder and
@@ -29,6 +29,8 @@ to bring the changes from the stash back
 clear the changes that are saved on stash
 `git stash clear`
 
+---
+
 ## Creating New Github Repo:
 
 add your project to the repo
@@ -43,6 +45,8 @@ or
 
 clone projects from github
 `git clone repo_url`
+
+---
 
 ## Git Branches:
 
