@@ -5,4 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
-- Saurav Dutta says that Kunal's videos are the best thing one can watch on YouTub!
+- Saurav Dutta says that Kunal's videos are the best thing one can watch on YouTube!
