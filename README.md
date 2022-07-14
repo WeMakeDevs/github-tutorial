@@ -1,5 +1,6 @@
 # Community Classroom is OP
 
+- This text is added by Himanshu Rawat.
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
