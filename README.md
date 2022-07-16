@@ -1,5 +1,6 @@
 # Community Classroom is OP
 
+- Fun
 - This looks good.
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
