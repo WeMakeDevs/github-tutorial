@@ -1,7 +1,6 @@
 # Community Classroom is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- I am learning git and github course from Kunal Kushwaha channel
+- He is absolute a pure gem for us 
+- make use of him and shine in ur career as well as in open source project
+- Big shout to Kunal Bhaiya
