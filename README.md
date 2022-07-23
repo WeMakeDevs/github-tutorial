@@ -1,5 +1,5 @@
 # Community Classroom is OP
-
+-Osho says this course is too informative.
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
