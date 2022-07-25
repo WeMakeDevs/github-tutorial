@@ -1,0 +1,88 @@
+touch names.txt // Create new file
+
+git .init // Create .git Repository
+
+git status // changes are staged or untracked ?
+
+git add something.txt
+
+git add . //All in current directory to staging area
+
+git commit -m "message"
+e.g git commit -m "names.txt added" 
+
+vi names.txt // opens names.txt in vim for editing
+
+cat names.txt // for viewing content of names.txt
+
+
+git restore --staged names.txt // removes file from stage and they becomes untracked. Enter git status to verify.
+
+git log // see the history of all the commits
+
+rm -rf names.txt
+
+git reset f46dfdft34qtdt4tergetgeryereter // All commits above this commit will be unstaged.
+
+git stash // use this command after using git add. command. I don't want to commit this but i also don't want to delete this. so using this command will backstage the changes and files.
+
+
+git stash pop // all the changes and file that were in back stage, come back to staging area.
+
+git stash clear // all the changes and files in back stage , they are gone now..tata ,bye bye
+
+I want the url of this repository to get attached my project 
+command for that is :
+
+git remote add origin https://github.com/kunal-kushwaha/communityclassrooom-Git
+
+This can be anything but by convention, all the repository and folders that are in your personal account, they have a name called origin. However, from where you have forked this project is called upstream url by convention.
+
+git remote -v // This will basically show you all the urls attached to this folder.
+
+git push origin master // push changes to url "origin" and branch "master" // by default the name of this branch is "main"
+
+whenever you are working on a new feature or resolving a bug, always create a new branch. You should never commit on the main branch or the master branch.
+
+git branch feature // Creates new branch called feature.
+
+git merge feature // now your branch is a part of main branch
+
+
+git remote add upstream https://github.com/commclassroom/commclassrooomOP.git
+
+git branch kunal 
+git checkout kunal // checkout means, now the head will basically come(point) on the kunal branch (from the main branch).
+
+git push origin kunal -f // force pushing because online repository contains a commit that my repository does not.
+
+
+git fetch --all --prune //maintain "main" branch of upstream with "main" branch of fork. Prune means fetch the files that I have deleted as well. 
+
+
+git reset --hard upstream/main  // Now you can reset it, reset the main branch of origin to the main branch of upstream.
+However you can also do :
+
+git pull upstream main //we used git fetch before but git pull internally does the same thing. Another way you can do "fetch upstream" at github
+
+My local folder's main is in-sync with the main branch but let's look at my fork at github, it's not updated because I haven't pushed my changes. For that :
+
+git push origin main 
+
+git rebase -i 3d34d344dv4t8d87e8v438  //   merge multiple commits in one single commit
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
