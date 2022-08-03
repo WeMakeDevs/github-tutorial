@@ -1,7 +1,5 @@
 # Community Classroom is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- Kunal Kushwaha is a great mentor for people enthusiastic about Devops.
+Neither degree nor college should be a barrier for people interested to dive in tech.
+There are numerous resources in the internet which will contribute to your growth with zero investment.
