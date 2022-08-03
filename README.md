@@ -1,5 +1,6 @@
 # Community Classroom is OP
 
+- Hello friends chai peelo 
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
