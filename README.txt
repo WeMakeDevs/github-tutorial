@@ -1,0 +1,1 @@
+- Bharath likes community classroom and looks forward to this journey through the bootcamp. 
