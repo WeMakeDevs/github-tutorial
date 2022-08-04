@@ -1,7 +1,6 @@
 # Community Classroom is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
+- Ramandeep Singh says that this community is amazing.
+- Ramandeep made this change.
 - More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- Ramandeep Singh finds the Community Classroom initiative really great!
