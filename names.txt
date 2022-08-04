@@ -1,1 +1,0 @@
-i have just leant how to open file in vscode using terminal
