@@ -1,7 +1,9 @@
-# Community Classroom is OP
+HI 
+THIS CODE IS MODIFIED BY KARTIKEY SINGH, OR @kartikbhaii.
+COMM CLASSROOM IS REALLY AMAZING.
+KUNAL OP IN THE CHAT.
+WHAT HE IS DOING IS REALLY GREAT FOR US, THAT IS STUDENTS OF TIER 3 COLLEGE.
+AND THAT ALL I WANT TO SAY.
+THANKS TO KUNAL.
+THANK YOU EVERYONE.
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
