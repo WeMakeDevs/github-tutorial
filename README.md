@@ -5,4 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
--Nancy says that Kunal's GIT session is amazing!
+-Nancy says that she is loving this new community!
