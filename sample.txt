@@ -1,0 +1,3 @@
+Hello everyone,
+
+you will learn about open source, front-end web development, backend web development, full stack web development and DevOps.
