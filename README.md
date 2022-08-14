@@ -4,4 +4,4 @@
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
 - Thank you so much Kunal
-- tqsom
+- radhim made this change
