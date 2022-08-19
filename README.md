@@ -1,7 +1,9 @@
-# Community Classroom is OP
+-Vishal learned git and github from kunal's video tutorial.
+-It was a little hard to understand but i managed to get the basics of git.
+- I am trying to add this file again.
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+
+
+
+
+
