@@ -1,7 +1,7 @@
-# Community Classroom is OP
+# Community Classroom is COOL!
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
+- Thank you kunal for the change.
+- I love the growth in me.
+- I love this community
 - More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- Its confusing on how to contribute for the first time, but harsh promises he wont give up.
