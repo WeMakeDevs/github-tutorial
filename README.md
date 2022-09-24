@@ -4,4 +4,5 @@
 - Kunal made this change
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
+- isak2002 thinks coding is fun with Community Classroom
 - Anirudh Sharma finds the Community Classroom initiative really great!
