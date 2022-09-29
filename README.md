@@ -5,4 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
--Nayan Prakash Lal says that Community Classroom is a great platform to learn
+-Nayan Prakash Lal says that Community Classroom is a great platform to learn. Thanks Kunal
