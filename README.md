@@ -1,5 +1,5 @@
 # Community Classroom is OP
--i am vishal
+- I am Vishal roy getting started with git
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
