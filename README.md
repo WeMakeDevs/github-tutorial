@@ -1,4 +1,5 @@
 # Community Classroom is OP
+Thank you for teaching git and github !!
 
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
