@@ -7,3 +7,5 @@
 - Anirudh Sharma finds the Community Classroom initiative really great!
 
 - Hi this is Vivek
+I say that this community is amazing
+
