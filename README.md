@@ -5,3 +5,6 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+- Yaswanth learning git and dsa from kunal kushwaha
+- Yaswanth modified readme file using another branch rm2
+- modified the file by creating new branch rm3
