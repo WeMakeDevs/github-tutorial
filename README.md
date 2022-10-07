@@ -4,5 +4,5 @@
 - Kunal made this change
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
 - Satender sharma feels that this git/github tutorial is really awesome and can help anyone to learn the basics.
+- Anirudh Sharma finds the Community Classroom initiative really great!
