@@ -5,3 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+- Deepak Yadav loves this community and the work you are doing for us.
