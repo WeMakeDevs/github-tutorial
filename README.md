@@ -1,7 +1,7 @@
 # Community Classroom is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- Kituuu says that this community is empty.
+- kiuuu made this change
+- I love root mean square speed of hydrogen
+- love the work which your are doing for the community.
+- open source is complicated
