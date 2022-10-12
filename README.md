@@ -1,5 +1,7 @@
 # Community Classroom is OP
 
+#BGK2002
+- nice lecture man
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
