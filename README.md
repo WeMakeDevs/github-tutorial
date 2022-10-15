@@ -5,6 +5,7 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 -Anirudh Sharma finds the Community Classroom initiative really great!
--Hello, kunal bhaiya . This is my first pull request. I am sup
-er duper happy.
+
+
+-i love you kunal bhaiya.. you are just amazing.
 
