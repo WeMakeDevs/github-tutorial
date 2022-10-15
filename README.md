@@ -6,4 +6,4 @@
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
 
-- Tahzib Mahmud Rifat says that all are very kind and always ready to help other. 
+- Tahzib Mahmud Rifat says that this community people are king and always ready to help other. 
