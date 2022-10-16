@@ -2,7 +2,6 @@
 
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
-- I love MLH
+- I love LH
 - More power to kunal. love the work which your are doing for the community.
-- This is gowtham interested in devops
-
+- This is Gowtham interested in Web-Devs
