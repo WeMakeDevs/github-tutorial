@@ -6,4 +6,6 @@
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
 - Hi, I am Rohitansh and this is my HandsOn while watching the video.
-- Not only Anirudh but Rohitansh also feels the sameway.
+- This course is OP.
+- "OP course by OP Kunal"
+
