@@ -1,5 +1,7 @@
+
 # Community Classroom is OP
 
+- Allan Anilson loves this Github course
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
