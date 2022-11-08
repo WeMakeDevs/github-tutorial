@@ -1,1 +1,1 @@
-Everyone says this classroom is OP 
+This classroom is amazing.
