@@ -5,5 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
-- Sathvik says Hello to this newly joined office collegues!
-- We are leaving by 7.30 pm IST.
+- Sathvik says that these session you are conducting are really helpful! :)
