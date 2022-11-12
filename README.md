@@ -1,7 +1,5 @@
 # Community Classroom is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- Community Classroom motivate me for learning programming and contributing to open source.
+- I have been doing this is a disciplined manner regularly inspite of my non-IT background and current job role in non-IT background as well.
+- I am learning seriusly and hope the learning will compound and give me results.
