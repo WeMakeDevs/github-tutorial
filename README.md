@@ -1,5 +1,5 @@
-# Community Classroom is OP
-
+# Community Classroom is O
+Shaurya Gupta made change
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
