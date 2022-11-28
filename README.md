@@ -4,7 +4,4 @@
 - Donnies made this change
 - I love instrumental music
 - More power to kunal. love the work which your are doing for the community.
-- Donnies finds the Community Classroom initiative really great!
-- Im getting back to this 
-- This community is great
-- This is fun
+- Anirudh Sharma finds the Community Classroom initiative really great.
