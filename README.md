@@ -1,4 +1,4 @@
-# Community Classroom is OP
+# WeMakeDevs is OP
 
 - Kunal Kushwaha says that this community is amazing. So, do i say this
 - More power to kunal. love the work which your are doing for the community.
