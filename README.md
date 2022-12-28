@@ -1,5 +1,5 @@
 # Community Classroom is OP
 
-- Kunal Kushwaha says that this community is amazing.
+- Kunal Kushwaha says that this community is amazing. So, do i say this
 - More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- Syed Saad Yousuf finds the Community Classroom initiative & infomative really - great Work!
