@@ -5,4 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
-Thanks to Kunal, Community Classroom has transformed the Indian Open Source community, Regards Keshav 
+- Thanks to Kunal, Community Classroom has transformed the Indian Open Source community, Regards Keshav 
