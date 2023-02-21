@@ -6,3 +6,4 @@
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
 - Rahul Datta found out DSA bootcamp of kunal kushwaha helped him a lot.
+- Rahul Datta says kunal is the one of favourite youtube.
