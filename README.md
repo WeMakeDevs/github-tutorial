@@ -5,3 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+- Thank you very much Kunal, Hope everyone finds success by following this playlist. Long Live WeMakeDevs & OPEN SOURCE
