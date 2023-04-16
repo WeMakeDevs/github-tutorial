@@ -1,7 +1,6 @@
 # WeMakeDevs is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- This is Upendhar .
+- I am learning Git 
+-I have cloned this repository from WeMakeDev 
+-I had refered to Kunal kushwaha's YT video on git and github tutoral for this
