@@ -1,5 +1,5 @@
 # WeMakeDevs is OP
-
+-I am part of this repository
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
