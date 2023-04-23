@@ -1,5 +1,6 @@
 # WeMakeDevs is OP
 
+- Anmol Matharu says that this community is amazing.
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
