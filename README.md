@@ -4,4 +4,6 @@
 - Kunal made this change
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- Aakash Pathak finds the Community Classroom initiative really amazing!
+- Aakash Pathak thanks to kunal kushwaha for introducing him to open source contribution.
+
