@@ -1,4 +1,4 @@
-# WeMakeDevs is OP
+# WeMakeDevs is OP <3
 
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
