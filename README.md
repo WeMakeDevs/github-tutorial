@@ -5,3 +5,5 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+- Atrij knows that the Community Classroom is amazing and Kunal's work is highly appreciated
+- Kunal Kushwaha is doing great
