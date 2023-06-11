@@ -5,3 +5,5 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+-Diwakar Kumar Singh appreciates your hard work in teaching git and github through classroom community.
+-Thanks a lot
