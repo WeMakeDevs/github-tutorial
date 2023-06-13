@@ -5,4 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
-- Azhar says it feels good making first ever github contribution!!
+- Skipped git and github tutorial from udemy  to watch and learn from kunal was worth it
