@@ -1,7 +1,10 @@
 # WeMakeDevs is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- Learning a lot from Kunal. I love his teaching style and his personality.
+
+- Here are random things from my head:
+- I love coding
+- I love eating food
+- I love playing games and consuming content
+- I love learning new things
+- I want to improve myself in all aspects in life
