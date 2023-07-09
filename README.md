@@ -5,4 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
-- Ashish Daniel has Kunal's video on Git & GitHub to learn.
+- Ashish Daniel has watched Kunal's video on Git & GitHub to learn.
