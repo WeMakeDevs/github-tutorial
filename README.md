@@ -5,4 +5,4 @@
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
-- Nikunj Dave is learning git from kunal kuswaha
+- Nikunj Dave is learning git from kunal kushwaha
