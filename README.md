@@ -1,5 +1,8 @@
 # WeMakeDevs is OP
 
+- Aditya Pradhan
+- Studying Devops
+- I hope I succeed
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 - I love MLH
