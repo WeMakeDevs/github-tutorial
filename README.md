@@ -1,7 +1,7 @@
 # WeMakeDevs is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
-- I love MLH
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- This community stands out due to its active involvement in open-source projects.
+- The community's roadmaps are accurate, providing clear direction.
+- The community is supportive, fostering a positive environment for all members.
+- Every aspect of this community encourages and facilitates growth and learning.
+ 
