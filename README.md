@@ -1,6 +1,8 @@
 # WeMakeDevs is OP
 
 - Kunal Kushwaha says that this community is amazing.
+-yo I am apala. iam here to make changes
+
 - Kunal made this change
 - I love MLH
 - More power to kunal. love the work which your are doing for the community.
